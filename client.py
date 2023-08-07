@@ -29,7 +29,7 @@ def request_list_roi(nodeId: str, chId: str):
     request = RequestListRoi(nodeId, chId)
     result = request_listroi_to_dict(request)
     response = requests.post(config.nk_api_url + "/v2/va/list-roi", json=result)
-    json = response.json()
+    json = .json()
     return json
 
 def request_list_facedb(nodeId: str):
