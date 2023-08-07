@@ -17,7 +17,7 @@ config = Config(config_data)
 
 def request_get_cn():
     response = requests.post(config.nk_api_url + "/v2/va/get-computing-node", json={})
-    json = response.json()
+    json = request.json()
     return json
 
 def request_list_channel():
