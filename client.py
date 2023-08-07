@@ -22,7 +22,7 @@ def request_get_cn():
 
 def request_list_channel():
     response = requests.post(config.nk_api_url + "/v2/va/list-channel", json={})
-    json = response.json()
+    json = request.json()
     return json
 
 def request_list_roi(nodeId: str, chId: str):
