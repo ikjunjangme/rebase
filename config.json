@@ -18,6 +18,6 @@
     "KioskName": "kiosk_hikvision_01",
     "WorktableName1": "worktable1",
     "WorktableName2": "worktable2",
-    "WorktableName3": "worktable3",
+    "Worktable": "worktable3",
     "logfile": 100
 }
