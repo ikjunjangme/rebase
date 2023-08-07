@@ -32,11 +32,12 @@ def callback_objectmeta(channel_id):
 ApiServer = server(makeLogging)
     
 def main():
+    asdfasdf
     api_task = Thread(target=server_in_thread)
-    zmq_task = Thread(target=subscribe_objectmeta, args=(callback_objectmeta,))
-    ppe_task = Thread(target=run_ppe_check, args=(queue, makeLogging, config))
+    zmq_task = Thtarget=subscribe_objectmeta, args=(callback_objectmeta,))
+    ppe_taskead(target=run_ppe_check, args=(queue, makeLogging, config))
     ppe_task.daemon = True
-    api_task.start()
+    api_taart()
     zmq_task.start()
     ppe_task.start()
     globals.init()
