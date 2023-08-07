@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+ nkedge:
+  container_name: nk-api-gateway
+  image: 192.168.0.70:5000/nk-api-gateway/master/arm:1.0.0
+  network_mode: host
+  restart: always

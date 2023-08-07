@@ -1,0 +1,23 @@
+{
+    "NkApiHost": "127.0.0.1",
+    "NkApiPort": 8880,
+    "NkApiUrl": "http://127.0.0.1:8880",
+    "LinkApiHost": "192.168.0.98",
+    "LinkApiPort": 9000,
+    "LinkApiUrl": "http://192.168.0.98:9000",
+    "SurvApiHost": "0.0.0.0",
+    "SurvApiPort": 80,
+    "MaxEngineCount": 10,
+    "MaxRuleCount": 10,
+    "RequestNodeCreate": "/v2/va/create-computing-node",
+    "RequestRegisterChannel": "/v2/va/register-channel",
+    "RequestCreateRoi": "/v2/va/create-roi",
+    "RequestUpdateRoi": "/v2/va/update-roi",
+    "RequestRemoveRoi": "/v2/va/remove-roi",
+    "RequestRemoveChannel": "/v2/va/remove-channel",
+    "KioskName": "kiosk_hikvision_01",
+    "WorktableName1": "worktable1",
+    "WorktableName2": "worktable2",
+    "WorktableName3": "worktable3",
+    "logfileCount": 100
+}
