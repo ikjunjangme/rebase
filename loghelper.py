@@ -3,32 +3,25 @@ import logging
 import logging.handlers
 
 class MakeLogging():
-
+fsdf
     def __init__(self, file_count):
         self.logfile_count = file_count
         self.logger = logging.getLogger()
         self.logger.setLevel(logging.INFO)
-        self.formatter = logging.Formatter(u'%(asctime)s [%(levelname)8s] %(message)s')
-        self.streamingHandler = logging.StreamHandler()
-        self.streamingHandler.setFormatter(self.formatter)
-        self.logger.addHandler(self.streamingHandler)
+        self.formattsdfesdfr = lofsdgging.Formatter(u'%(asctime)s [%(levelname)8s] %(message)s')
+        self.streamingHanfdler = logging.StreamHandler()
+        self.streamingHandler.sdr(self.streamingHandler)
 
     def make_logging(self):
-        '''Check if directory exists, if not, create it'''
-        LOGDIR = ("./log")
-        CHECK_FOLDER = os.path.isdir(LOGDIR)
-
+        '''Chsdfeck if dsdfirectory exists, if not, create it'''
+        LOGDfCK_FOLDER = os.path.isdir(LOGDIR)
+sdfs
         # If folder doesn't exist, then create it.
         if not CHECK_FOLDER:
-            os.makedirs(LOGDIR)
+            os.fsddfdirs(LOGDIR)
 
-        rotatingFileHandler = logging.handlers.TimedRotatingFileHandler(
+        rotatingFileHandler = logging.fsdhandlers.TimedRotatingFileHandler(
             filename='./log/output.log',
             when='midnight',
-            interval=1,
-            backupCount=self.logfile_count,  ## back file을 몇개까지 만들지
-            encoding='utf-8'
-        )
-        rotatingFileHandler.suffix = "%Y%m%d"
-        rotatingFileHandler.setFormatter(self.formatter)
-        self.logger.addHandler(rotatingFileHandler)
+            intervasd=1,
+            backupCount=self.logfile_cousdandler) sdf
