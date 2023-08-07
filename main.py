@@ -24,10 +24,10 @@ queue = deque()
 def server_in_thread():
     serve(app, host=config.surv_api_host, port=config.surv_api_port)
     
-def callback_objectmeta(channel_id, objectmeta):
-    #print("{} {}, callback_objectmeta()".format(datetime.now(), channel_id))
-    object_meta_set[channel_id] = objectmeta
+def callback_objectmeta(channel_id):
+    object_meta_set[channel_id] = object
     queue.append([channel_id, object_meta_set])
+    print("test")
     
 ApiServer = server(makeLogging)
     
