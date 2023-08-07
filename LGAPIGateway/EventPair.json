@@ -1,0 +1,88 @@
+[
+    {
+        "LGEventCode": 2,
+        "NKEventCode": 1,
+        "EventName": "배회",
+        "IConPath": "Test"
+    },
+    {
+        "LGEventCode": 1,
+        "NKEventCode": 2,
+        "EventName": "침입"
+    },
+    {
+        "LGEventCode": 5,
+        "NKEventCode": 3,
+        "EventName": "쓰러짐"
+    },
+    {
+        "LGEventCode": 6,
+        "NKEventCode": 5,
+        "EventName": "싸움,폭력"
+    },
+    {
+        "LGEventCode": 301,
+        "NKEventCode": 10,
+        "EventName": "객체 혼잡도"
+    },
+    {
+        "LGEventCode": 17,
+        "NKEventCode": 13,
+        "EventName": "양방향 라인 통과"
+    },
+    {
+        "LGEventCode": 16,
+        "NKEventCode": 14,
+        "EventName": "불법 주정차_10분"
+    },
+    {
+        "LGEventCode": 302,
+        "NKEventCode": 17,
+        "EventName": "사람 혼잡도 레벨"
+    },
+    {
+        "LGEventCode": 303,
+        "NKEventCode": 19,
+        "EventName": "차량 밀도"
+    },
+    {
+        "LGEventCode": 204,
+        "NKEventCode": 20,
+        "EventName": "정차 중인 차량 수 카운트"
+    },
+    {
+        "LGEventCode": 18,
+        "NKEventCode": 23,
+        "EventName": "단방향 라인 통과"
+    },
+    {
+        "LGEventCode": 4,
+        "NKEventCode": 25,
+        "EventName": "화재 연기"
+    },
+    {
+        "LGEventCode": 3,
+        "NKEventCode": 26,
+        "EventName": "화재 불꽃"
+    },
+    {
+        "LGEventCode": 19,
+        "NKEventCode": 27,
+        "EventName": "등록 얼굴 매칭"
+    },
+    {
+        "LGEventCode": 24,
+        "NKEventCode": 28,
+        "EventName": "얼굴 마스크 미착용"
+    },
+    {
+        "LGEventCode": 22,
+        "NKEventCode": 29,
+        "EventName": "헬멧 미착용"
+    },
+    {
+        "LGEventCode": 21,
+        "NKEventCode": 30,
+        "EventName": "헬멧 착용"
+    }
+]

@@ -1,0 +1,4 @@
+obj\Release\protos/SendMetadata.cs \
+obj\Release\protos/SendMetadataGrpc.cs: C:/Users/jaelo/.nuget/packages/grpc.tools/2.38.1/build/native/include/google/protobuf/empty.proto\
+ C:/Users/jaelo/.nuget/packages/grpc.tools/2.38.1/build/native/include/google/protobuf/timestamp.proto\
+ protos/sendMetadata.proto

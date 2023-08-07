@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgbQCJ6HijBtzPHCgYmw31GLMdnmn/YIqx6iFjMl8EN6oRrbURlFzzj5FRSflXdEv5xjjbApNpJO3cd4yTLvKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaelo\\Documents\\LGAPIGateway\\NKAPI\\NKAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaelo\\.nuget\\packages\\grapevine\\4.2.2\\grapevine.4.2.2.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\jaelo\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\bin\Release\net5.0\PredefineConstant.deps.json
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\bin\Release\net5.0\PredefineConstant.dll
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\bin\Release\net5.0\PredefineConstant.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\obj\Release\net5.0\PredefineConstant.csproj.AssemblyReference.cache
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\obj\Release\net5.0\PredefineConstant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\obj\Release\net5.0\PredefineConstant.AssemblyInfoInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\obj\Release\net5.0\PredefineConstant.AssemblyInfo.cs
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\obj\Release\net5.0\PredefineConstant.csproj.CoreCompileInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\obj\Release\net5.0\PredefineConstant.dll
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\obj\Release\net5.0\refint\PredefineConstant.dll
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\obj\Release\net5.0\PredefineConstant.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\PredefineConstant\obj\Release\net5.0\ref\PredefineConstant.dll

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grapevine" Version="4.2.2" />
+    <PackageReference Include="RestSharp" Version="107.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\PublicUtility\PublicUtility.csproj" />
+    <ProjectReference Include="..\NKAPI\NKAPI.csproj" />
+    <ProjectReference Include="..\NKProtobuf\NKProtobuf.csproj" />
+    <ProjectReference Include="..\RestAPIManager\RestAPIManager.csproj" />
+  </ItemGroup>
+
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="copy &quot;$(ProjectDir)Models\PreDefineResources.txt&quot; &quot;$(ProjectDir)$(OutDir)&quot;" />
+  </Target>
+
+</Project>

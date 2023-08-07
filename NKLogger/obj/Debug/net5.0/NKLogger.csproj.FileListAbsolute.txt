@@ -1,0 +1,13 @@
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\bin\Debug\net5.0\log4net.config
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\bin\Debug\net5.0\NKLogger.deps.json
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\bin\Debug\net5.0\NKLogger.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\bin\Debug\net5.0\NKLogger.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\obj\Debug\net5.0\NKLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\obj\Debug\net5.0\NKLogger.AssemblyInfoInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\obj\Debug\net5.0\NKLogger.AssemblyInfo.cs
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\obj\Debug\net5.0\NKLogger.csproj.CoreCompileInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\obj\Debug\net5.0\NKLogger.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\obj\Debug\net5.0\ref\NKLogger.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\obj\Debug\net5.0\NKLogger.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\obj\Debug\net5.0\NKLogger.csproj.AssemblyReference.cache
+C:\Users\jaelo\Documents\LGAPIGateway\NKLogger\obj\Debug\net5.0\refint\NKLogger.dll

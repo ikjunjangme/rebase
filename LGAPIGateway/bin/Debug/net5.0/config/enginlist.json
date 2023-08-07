@@ -1,0 +1,149 @@
+{
+  "Nodes": {
+    "9858D02BD00CDF4C": {
+      "NodeInfo": {
+        "httpPort": 0,
+        "rpcPort": 0
+      },
+      "Channels": [
+        "82CEEAE666CAE20A"
+      ]
+    }
+  },
+  "Engines": {
+    "82CEEAE666CAE20A": {
+      "enable": true,
+      "engine_id": "82CEEAE666CAE20A",
+      "sensitivity": 5,
+      "fps": 10,
+      "video": {
+        "url": "rtsp://172.16.0.192:8554/3/analytic",
+        "login_id": "admin",
+        "login_pwd": "admin135!"
+      },
+      "meta": {
+        "url": "http://172.16.0.192:8091/uplus-vaapi/meta",
+        "login_id": "admin",
+        "login_pwd": "admin",
+        "filters": [
+          1,
+          2
+        ]
+      },
+      "grpcURL": "192.168.0.36:2250",
+      "_links": {
+        "_self": {
+          "href": "/uplus-vaapi/engines/82CEEAE666CAE20A",
+          "method": [
+            "GET",
+            "PUT",
+            "DELETE"
+          ]
+        },
+        "rule_engines": {
+          "href": "/uplus-vaapi/engines/82CEEAE666CAE20A/rule_manager",
+          "method": [
+            "GET",
+            "POST"
+          ]
+        }
+      }
+    }
+  },
+  "EngineID_Channel_Pair": {
+    "82CEEAE666CAE20A": {
+      "Channel_Information": {
+        "nodeId": "9858D02BD00CDF4C",
+        "channelId": "82CEEAE666CAE20A",
+        "inputUri": "rtsp://admin:admin135!@172.16.0.192:8554/3/analytic",
+        "FrameWidth": 0,
+        "FrameHeight": 0,
+        "siblings": [],
+        "status": 0
+      },
+      "Engine_Instance": {
+        "NodeID": "9858D02BD00CDF4C",
+        "ChannelID": "82CEEAE666CAE20A",
+        "Engine_ID": "82CEEAE666CAE20A"
+      },
+      "RuleEngineResource": {
+        "_ruleManager": {
+          "_RulID_RuleData_Pair": {
+            "19E3286EFECE1EA": {
+              "ROI_Info": {
+                "stayTime": 0.0,
+                "numberOf": 0,
+                "eventType": 0,
+                "feature": 0,
+                "code": 0
+              },
+              "LGAPI_Rule_Engine_Info": {
+                "brand": "NK",
+                "rule_id": "19E3286EFECE1EA",
+                "rule_type": 1,
+                "object_type": [
+                  1,
+                  2
+                ],
+                "roi_type": 2,
+                "roi_positions": [
+                  {
+                    "x": 0.0046875,
+                    "y": 0.11666667
+                  },
+                  {
+                    "x": 0.009375,
+                    "y": 0.86875
+                  },
+                  {
+                    "x": 0.3125,
+                    "y": 0.91875
+                  },
+                  {
+                    "x": 0.2203125,
+                    "y": 0.114583336
+                  }
+                ],
+                "_links": {
+                  "_self": {
+                    "href": "/uplus-vaapi/engines/82CEEAE666CAE20A/19E3286EFECE1EA",
+                    "method": [
+                      "GET",
+                      "PUT",
+                      "DELETE"
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "_channelID": "82CEEAE666CAE20A",
+          "_nodeID": "9858D02BD00CDF4C",
+          "RuleReporter": [
+            {
+              "id": "19E3286EFECE1EA",
+              "type": 1,
+              "roi_type": 2,
+              "roi": [
+                0.0046875,
+                0.11666667,
+                0.009375,
+                0.86875,
+                0.3125,
+                0.91875,
+                0.2203125,
+                0.114583336
+              ]
+            }
+          ]
+        },
+        "SubResources": [
+          ""
+        ]
+      },
+      "MetaManager": {
+        "IsStartGRPC": true
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\bin\Debug\NKProtobuf.deps.json
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\bin\Debug\NKProtobuf.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\bin\Debug\NKProtobuf.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\bin\Debug\PublicUtility.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\bin\Debug\PublicUtility.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\NKProtobuf.csproj.AssemblyReference.cache
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\NKProtobuf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\NKProtobuf.AssemblyInfoInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\NKProtobuf.AssemblyInfo.cs
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\NKProtobuf.csproj.CoreCompileInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\NKProtobuf.csproj.CopyComplete
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\NKProtobuf.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\ref\NKProtobuf.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\NKProtobuf.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\NKProtobuf\obj\Debug\refint\NKProtobuf.dll

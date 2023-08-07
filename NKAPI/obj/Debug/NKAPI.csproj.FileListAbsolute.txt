@@ -1,0 +1,15 @@
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\bin\Debug\NKAPI.deps.json
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\bin\Debug\NKAPI.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\bin\Debug\NKAPI.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\bin\Debug\PublicUtility.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\bin\Debug\PublicUtility.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\NKAPI.csproj.AssemblyReference.cache
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\NKAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\NKAPI.AssemblyInfoInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\NKAPI.AssemblyInfo.cs
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\NKAPI.csproj.CoreCompileInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\NKAPI.csproj.CopyComplete
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\NKAPI.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\ref\NKAPI.dll
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\NKAPI.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\NKAPI\obj\Debug\refint\NKAPI.dll

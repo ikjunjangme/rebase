@@ -1,0 +1,12 @@
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\bin\Debug\PublicUtility.deps.json
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\bin\Debug\PublicUtility.dll
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\bin\Debug\PublicUtility.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Debug\PublicUtility.csproj.AssemblyReference.cache
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Debug\PublicUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Debug\PublicUtility.AssemblyInfoInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Debug\PublicUtility.AssemblyInfo.cs
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Debug\PublicUtility.csproj.CoreCompileInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Debug\PublicUtility.dll
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Debug\ref\PublicUtility.dll
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Debug\PublicUtility.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Debug\refint\PublicUtility.dll

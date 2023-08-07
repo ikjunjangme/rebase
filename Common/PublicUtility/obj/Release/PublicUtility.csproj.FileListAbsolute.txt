@@ -1,0 +1,12 @@
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\bin\Release\PublicUtility.deps.json
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\bin\Release\PublicUtility.dll
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\bin\Release\PublicUtility.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Release\PublicUtility.csproj.AssemblyReference.cache
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Release\PublicUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Release\PublicUtility.AssemblyInfoInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Release\PublicUtility.AssemblyInfo.cs
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Release\PublicUtility.csproj.CoreCompileInputs.cache
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Release\PublicUtility.dll
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Release\refint\PublicUtility.dll
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Release\PublicUtility.pdb
+C:\Users\jaelo\Documents\LGAPIGateway\Common\PublicUtility\obj\Release\ref\PublicUtility.dll
