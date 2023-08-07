@@ -9,7 +9,7 @@
     "SurvApiPort": 80,
     "MaxEngineCount": 10,
     "MaxRuleCount": 10,
-    "RequestNodeCreate": "/v2/va/create-computing-node",
+    "RequestNode": "/v2/va/create-computing-node",
     "RequestRegister": "/v2/va/register-channel",
     "RequestCreateRoi": "/v2/va/create-roi",
     "RequestUpdateRoi": "/v2/va/update-roi",
